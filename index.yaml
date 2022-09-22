@@ -3,7 +3,17 @@ entries:
   fastapi-pgadmin-postgres:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T14:43:08.678728557Z"
+    created: "2022-09-22T15:01:36.699519878Z"
+    description: A Helm chart for Kubernetes
+    digest: 5becb422d6ae7276cecd2b9bc4dd8af6f3a9952915a274a2611df22664c16c88
+    name: fastapi-pgadmin-postgres
+    type: application
+    urls:
+    - fastapi-pgadmin-postgres-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-22T15:01:36.698767473Z"
     description: A Helm chart for Kubernetes
     digest: 76db52ca9dc88a4f314385c413ea325350cbd0d586c22282f4fa25bf108f137a
     name: fastapi-pgadmin-postgres
@@ -11,4 +21,4 @@ entries:
     urls:
     - fastapi-pgadmin-postgres-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-22T14:43:08.677418958Z"
+generated: "2022-09-22T15:01:36.697843967Z"
